@@ -1,0 +1,41 @@
+body{
+	background-color: #5BD4EF;
+}
+.clockStyle{
+	/*transform: translateX(-50%) translateY(-50%);*/
+	font-size: 16px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	display: inline;
+	border: #999 2px inset;
+	padding: 4px;
+}
+/*body{
+	background-color: #5BD4EF;
+	margin: 0;
+	padding: 0;
+}
+.menu{
+	background: red;
+}
+.top-menu{
+	float: left;
+	width: 17%;
+	text-transform: uppercase;
+	letter-spacing: .5vw;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-bottom: 20%;
+}
+.menu-right{
+	float: right;
+	text-transform: uppercase;
+	margin-right: 2%;
+	margin-top: 2%;
+	letter-spacing: .5vw;
+	margin-bottom: 20%;
+}
+.center{
+	clear: both;
+	text-align: center;
+}*/
